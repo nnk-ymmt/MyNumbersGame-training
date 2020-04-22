@@ -1,0 +1,2 @@
+# MyNumbersGame-training
+ドットインストール　MyNumbersGame
